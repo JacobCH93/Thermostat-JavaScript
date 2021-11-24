@@ -1,6 +1,5 @@
 function sayHello() {
-    return 'Hello';
-  }
+    return 'Hello' }
   
   // we're "exporting" the sayHello function
   module.exports = sayHello;
